@@ -17192,6 +17192,7 @@
 ||metrics.hoovers.com^
 ||metrics.howstuffworks.com^
 ||metrics.hrblock.com^
+||metrics.icloud.com^
 ||metrics.iconfitness.com^
 ||metrics.ilsole24ore.com^
 ||metrics.impactengine.com^
