@@ -5569,6 +5569,7 @@
 ||appspot.com^
 ||appsrv1.madserving.cn^
 ||apptentive.com^
+||apptimize.com^
 ||appyaviator.com^
 ||aproxtrack2.com^
 ||aps.hearstnp.com^
@@ -14756,6 +14757,7 @@
 ||iovation.com^
 ||ip-182-50-129-164.ip.secureserver.net^
 ||ip-182-50-129-181.ip.secureserver.net^
+||ip-api.com^
 ||ip.ro^
 ||ip193.cn^
 ||ipad2free4u.com^
@@ -20993,7 +20995,6 @@
 ||pro-factory.com^
 ||pro-partners.nl^
 ||pro.clanweb.cz^
-||pro.ip-api.com^
 ||pro.letv.com^
 ||pro.marinsm.com^
 ||pro102.pl^
@@ -22154,7 +22155,6 @@
 ||ruletkasystem.eu^
 ||rum-collector.pingdom.net^
 ||rum-static.pingdom.net^
-||rumds.wpdigital.net^
 ||rumormillnews.com^
 ||rumrunners.us^
 ||run.admost.com^
@@ -27846,6 +27846,7 @@
 ||wp1.cor-natty.com^
 ||wp9.ru^
 ||wpadx.com^
+||wpdigital.net^
 ||wpisz-to.pl^
 ||wpnrtnmrewunrtok.xyz^
 ||wppluginspro.com^
