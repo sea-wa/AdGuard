@@ -1,10 +1,10 @@
-@@||bankone.com^
-@@||chase.com^
-@@||chasecdn.com^
-@@||gslbjpmchase.com^
-@@||ichart2.epic.com^
-@@||mychartor.providence.org^
-@@||zimperium.com^
+@@||bankone.com^|
+@@||chase.com^|
+@@||chasecdn.com^|
+@@||gslbjpmchase.com^|
+@@||ichart2.epic.com^|
+@@||mychartor.providence.org^|
+@@||zimperium.com^|
 ||0.twitter.com^
 ||000free.us^
 ||000webhostapp.com^
