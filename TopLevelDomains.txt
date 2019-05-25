@@ -25,6 +25,7 @@
 ||bg^
 ||bh^
 ||bi^
+||bid^
 ||bj^
 ||blue^
 ||bn^
