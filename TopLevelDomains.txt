@@ -110,6 +110,7 @@
 ||hr^
 ||ht^
 ||hu^
+||icu^
 ||id^
 ||ie^
 ||il^
@@ -287,6 +288,7 @@
 ||work^
 ||world^
 ||ws^
+||xxx^
 ||xyz^
 ||za^
 ||zm^
