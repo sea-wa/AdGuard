@@ -5974,6 +5974,8 @@
 ||dev.sfbg.com^
 ||developer.brightcove.com^
 ||developermedia.com^
+||device-metrics-us.amazon.com^
+||device-metrics-us-2.amazon.com^
 ||device.maxmind.com^
 ||devicecooler.s.xoxknct.com^
 ||devshaped.com^
