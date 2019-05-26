@@ -4381,6 +4381,7 @@
 ||appsdt.com^
 ||appsee.com^
 ||appsflyer.com^
+||appspot.com^
 ||appyaviator.com^
 ||aproxtrack2.com^
 ||aps.hearstnp.com^
