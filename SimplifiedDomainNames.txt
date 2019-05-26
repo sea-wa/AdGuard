@@ -4480,7 +4480,6 @@
 ||colliersads.com^
 ||collserve.com^
 ||colossusssp.com^
-||com^
 ||com-wkejf32ljd23409system.net^
 ||com.econa.com^
 ||combotag.com^
