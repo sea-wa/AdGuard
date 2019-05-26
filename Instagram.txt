@@ -1,0 +1,12 @@
+! Instagram
+||api.instagram.com^
+||black.ish.instagram.com^
+||cdninstagram.com^
+||i.instagram.com^
+||instagram.com^
+||instagramstatic-a.akamaihd.net^
+||instagramstatic-a.akamaihd.net.edgesuite.net^
+||logger.instagram.com^
+||platform.instagram.com^
+||telegraph-ash.instagram.com^
+||white.ish.instagram.com^
