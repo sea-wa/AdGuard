@@ -5867,6 +5867,7 @@
 ||btnativedirect.com^
 ||btprmnav.com^
 ||btstatic.com^
+||btttag.com^
 ||bttrack.com^
 ||bubblebonusbingo.com^
 ||bubblebuttbonanza.com^
