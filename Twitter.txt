@@ -1,6 +1,7 @@
 ! Twitter
 ! abs.twimg.com
 ! access.twitter.com
+! api.twitter.com
 ! pbs.twimg.com
 ! twitter.com
 ! upload.twitter.com
@@ -11,7 +12,6 @@
 ||ads.twitter.com^
 ||analytics.twitter.com^
 ||api-test.twitter.com^
-||api.twitter.com^
 ||api2.twitter.com^
 ||api4.twitter.com^
 ||apps.twitter.com^
