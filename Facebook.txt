@@ -1,0 +1,22 @@
+! Facebook Tracking and Privacy Invasion
+||facebook.com^
+||facebook.com.edgekey.net^
+||facebook.com.edgesuite.net^
+||facebook.de^
+||facebook.fr^
+||facebook.net^
+||facebook.net.edgekey.net^
+||fb.com^
+||fb.me^
+||fbcdn.com^
+||fbcdn.net^
+||fbsbx.com^
+||fbstatic.net^
+||foursquare.com^
+||freebasics.com^
+||internet.org^
+||m.me^
+||messenger.com^
+||online-metrix.net^
+||tfbnw.net^
+||wechat.com^
