@@ -2041,7 +2041,6 @@
 ||amazingcounters.com^
 ||amazon-adsystem.com^
 ||amazon-cornerstone.com^
-||amazon.com^
 ||amazonaws.com^
 ||amazonily.com^
 ||ambaab.com^
