@@ -1585,7 +1585,7 @@
 ||adnigma.com^
 ||adnotch.com^
 ||adntokyo.gunosy.com^
-||adnxs.com^
+||adnxs.com^$important
 ||ado.pro-market.net^
 ||adobe-flashplayer.com^
 ||adobee.com^
@@ -2399,7 +2399,7 @@
 ||ads.tahono.com^
 ||ads.tarrobads.com^
 ||ads.tbs.com^
-||ads.tdbank.com^
+||ads.tdbank.com^$important
 ||ads.tdcanadatrust.com^
 ||ads.teamyehey.com^
 ||ads.technoratimedia.com^
@@ -3211,7 +3211,7 @@
 ||advertising.aol.com^
 ||advertising.bayoubuzz.com^
 ||advertising.bbcworldwide.com^
-||advertising.com^
+||advertising.com^$important
 ||advertising.dclux.com^
 ||advertising.embarcaderopublishing.com^
 ||advertising.ezanga.com^
@@ -6980,6 +6980,7 @@
 ||clkrtrkr.com^
 ||clksite.com^
 ||clktrk.com^
+||clkuk.tradedoubler.com^$important
 ||cloisteredhydrant.com^
 ||closeoutproductsreview.com^
 ||clothedfemalesnudewomen.tumblr.com^
@@ -7022,6 +7023,8 @@
 ||cluster.adultworld.com^
 ||clustrmaps.com^
 ||clxcaf.com^
+||cm-beacon.nakanohito.jp^$important
+||cm-widget.nakanohito.jp^$important
 ||cm.need2find.com^
 ||cm1359.com^
 ||cm8.lycos.com^
@@ -8319,6 +8322,7 @@
 ||dni.agcdn.com^
 ||dnps.com^
 ||dnset.com^
+||dnsotls-ds.metric.gstatic.com^$important
 ||dntx.com^
 ||dnvideos.com^
 ||do-not-tracker.org^
@@ -8390,7 +8394,7 @@
 ||dotnet.endai.com^
 ||dotzup.com^
 ||doubleclick.com^
-||doubleclick.net^
+||doubleclick.net^$important
 ||doubleclickbygoogle.com^
 ||doublepenetrationvids.com^
 ||doublepimp.com^
@@ -10637,7 +10641,7 @@
 ||google-analytics.com^
 ||google-docs.org^
 ||google.tucows.com^
-||googleadservices.com^
+||googleadservices.com^$important
 ||googleanalytcs.com^
 ||googlesyndication.com^
 ||googletagmanager.com^
@@ -13189,6 +13193,7 @@
 ||login.dotomi.net^
 ||lognormal.net^
 ||logos.libstat.com^
+||logrocket.com^$important
 ||logs-01.loggly.com^
 ||logs.comics.com^
 ||logs.eresmas.com^
@@ -15048,6 +15053,7 @@
 ||ninaning.com^
 ||ninavirgin.com^
 ||nineteenporn.com^
+||nineto5mac-d.openx.net^$important
 ||ninja.onap.io^
 ||ninjacasino.com^
 ||ninjackpot.com^
@@ -15814,7 +15820,7 @@
 ||online-cigarettes.hitslog.net^
 ||online-dn.com^
 ||online-forex-trading-systems.blogspot.com^
-||online-metrix.net^
+||online-metrix.net^$important
 ||online-pharmacy-online.blogspot.com^
 ||online.miarroba.com^
 ||online.singaporepools.com^
@@ -16123,6 +16129,7 @@
 ||pagapau.com^
 ||page-x.com^
 ||pagead-googlehosted.l.google.com^
+||pagead.l.doubleclick.net^$important
 ||pagead.l.google.com^
 ||pagead.topobiavi.com^
 ||pagefair.com^
@@ -18323,6 +18330,7 @@
 ||sarahsnaughtyplace.tumblr.com^
 ||sarajay.com^
 ||sarastone.com^
+||sas.com^$important
 ||sas.decisionnews.com^
 ||sascentral.com^
 ||sasdiskcleaner.com^
@@ -19147,7 +19155,7 @@
 ||smart.synergy-e.com^
 ||smart4ads.com^
 ||smartaccess.biz^
-||smartadserver.com^
+||smartadserver.com^$important
 ||smartbalanceworld.com^
 ||smartcanvas.net^
 ||smartclip.com^
@@ -19893,6 +19901,7 @@
 ||storspiller.com^
 ||storygize.net^
 ||stoveseashore.com^
+||str.hit.gemius.pl^$important
 ||str1kee.com^
 ||straightboygalleries.com^
 ||straightnest.com^
@@ -21217,6 +21226,7 @@
 ||track.resala1.com^
 ||track.richmediaads.com^
 ||track.roiservice.com^
+||track.rutarget.ru^$important
 ||track.scrillaspace.com^
 ||track.searchignite.com^
 ||track.securedvisit.com^
