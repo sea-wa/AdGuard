@@ -1,3 +1,4 @@
+
 ! Tweaked StevenBlack fakenews-gambling-porn & Modifications By Me
 ||0.nextyourcontent.com^
 ||0.r.msn.com^
@@ -1736,8 +1737,7 @@
 ||adnotch.com^
 ||adnow.com^
 ||adntokyo.gunosy.com^
-||adnxs.com^
-||adnxs.com$important^
+||adnxs.com^$important
 ||adnxtr.com^
 ||ado.pro-market.net^
 ||adobe-flashplayer.com^
@@ -2196,8 +2196,8 @@
 ||ads.horsehero.com^
 ||ads.horyzon-media.com^
 ||ads.hothardware.com^
-||ads.hulu.com^
 ||ads.hulu.com.edgesuite.net^
+||ads.hulu.com^
 ||ads.i33.com^
 ||ads.iboost.com^
 ||ads.ibryte.com^
@@ -2384,8 +2384,8 @@
 ||ads.nowrunning.com^
 ||ads.nudecards.com^
 ||ads.nudereviews.com^
-||ads.nwsource.com^
 ||ads.nwsource.com.edgesuite.net^
+||ads.nwsource.com^
 ||ads.nyi.net^
 ||ads.nyjournalnews.com^
 ||ads.nyootv.com^
@@ -2465,8 +2465,8 @@
 ||ads.pricescan.com^
 ||ads.primeinteractive.net^
 ||ads.printscr.com^
-||ads.pro-market.net^
 ||ads.pro-market.net.edgesuite.net^
+||ads.pro-market.net^
 ||ads.proboards.com^
 ||ads.profitsdeluxe.com^
 ||ads.profootballtalk.com^
@@ -2592,7 +2592,6 @@
 ||ads.tapdaq.com^
 ||ads.taptapnetworks.com^
 ||ads.tbs.com^
-||ads.tdbank.com$important^
 ||ads.tdcanadatrust.com^
 ||ads.teamyehey.com^
 ||ads.technoratimedia.com^
@@ -2736,8 +2735,8 @@
 ||ads.yam.com^
 ||ads.yap.yahoo.com^
 ||ads.yeshanews.com^
-||ads.yimg.com^
 ||ads.yimg.com.edgesuite.net^
+||ads.yimg.com^
 ||ads.yldmgrimg.net^
 ||ads.ynot.com^
 ||ads.zaloapp.com^
@@ -3516,8 +3515,7 @@
 ||advertising.apple.com^
 ||advertising.bayoubuzz.com^
 ||advertising.bbcworldwide.com^
-||advertising.com^
-||advertising.com$important^
+||advertising.com^$important
 ||advertising.dclux.com^
 ||advertising.embarcaderopublishing.com^
 ||advertising.ezanga.com^
@@ -7353,7 +7351,6 @@
 ||cdn.likeaced.com^
 ||cdn.listrakbi.com^
 ||cdn.lodeo.io^
-||cdn.logrocket.com^
 ||cdn.logrocket.io^
 ||cdn.luckyorange.com^
 ||cdn.madkudu.com^
@@ -8005,7 +8002,6 @@
 ||clksite.com^
 ||clktrk.com^
 ||clktrk.display.io^
-||clkuk.tradedoubler.com$important^
 ||cloisteredhydrant.com^
 ||closeoutproductsreview.com^
 ||clothedfemalesnudewomen.tumblr.com^
@@ -8056,9 +8052,7 @@
 ||clubwinnerz.com^
 ||clustrmaps.com^
 ||clxcaf.com^
-||cm-beacon.nakanohito.jp$important^
 ||cm-udmp.gridsumdissector.com^
-||cm-widget.nakanohito.jp$important^
 ||cm.adsafety.net^
 ||cm.baichuan.baidu.com^
 ||cm.baidu.com^
@@ -9525,7 +9519,7 @@
 ||dni.agcdn.com^
 ||dnps.com^
 ||dnset.com^
-||dnsotls-ds.metric.gstatic.com$important^
+||dnsotls-ds.metric.gstatic.com^$important
 ||dntx.com^
 ||dnvideos.com^
 ||do-not-tracker.org^
@@ -9603,9 +9597,8 @@
 ||dotnet.endai.com^
 ||dotomi.com^
 ||dotzup.com^
-||doubleclick.com^
-||doubleclick.net^
-||doubleclick.net$important^
+||doubleclick.com^$important
+||doubleclick.net^$important
 ||doubleclickbygoogle.com^
 ||doubleclickindustries.com^
 ||doublepenetrationvids.com^
@@ -9800,7 +9793,6 @@
 ||e.glbimg.com^
 ||e.imguol.com^
 ||e.invodo.com^
-||e.logrocket.com^
 ||e.nexac.com^
 ||e.targetfuel.com^
 ||e.thanksearch.com^
@@ -10502,7 +10494,6 @@
 ||exe.bid^
 ||exebet.com^
 ||execistern.tumblr.com^
-||execution-use.ci360.sas.com^
 ||exelator.com^
 ||exgfpass.com^
 ||exgfphotos.com^
@@ -12057,8 +12048,7 @@
 ||google-analytics.com^
 ||google-docs.org^
 ||google.tucows.com^
-||googleadservices.com^
-||googleadservices.com$important^
+||googleadservices.com^$important
 ||googleadservices.org^
 ||googleanalytcs.com^
 ||googlesyndication.com^
@@ -12997,8 +12987,8 @@
 ||i.trkjmp.com^
 ||i.xx.openx.com^
 ||i1.dl-ad.com^
-||i16-tb.isnssdk.com^
 ||i16-tb.isnssdk.com.edgekey.net^
+||i16-tb.isnssdk.com^
 ||i16-tb.sgsnssdk.com.edgekey.net^
 ||i1img.com^
 ||i2i.com^
@@ -13064,7 +13054,6 @@
 ||icipourtoi.com^
 ||icityfind.com^
 ||iclickyou.com^
-||iclsas.com^
 ||icm-tracking.meltwater.com^
 ||iconpeak.com^
 ||icoocash.com^
@@ -13357,7 +13346,6 @@
 ||impact.cossette-webpact.com^
 ||impactmobile.com^
 ||impacts.alliancehub.com^
-||imperiodefamosas.com^
 ||impit.tradedouble.com^
 ||impornoaddict.tumblr.com^
 ||import.globalsources.com^
@@ -14970,7 +14958,8 @@
 ||lognormal.net^
 ||logonext.tv.kuyun.com^
 ||logos.libstat.com^
-||logrocket.com$important^
+||logrocket.com^
+||logrocket.com^$important
 ||logs-01.loggly.com^
 ||logs.comics.com^
 ||logs.eresmas.com^
@@ -15365,7 +15354,6 @@
 ||maria-av.com^
 ||mariacasino.com^
 ||mariemccray.com^
-||marinoderosas.com^
 ||marinsm.com^
 ||mariuspetrescu.gq^
 ||markab.iad-03.braze.com^
@@ -17169,7 +17157,6 @@
 ||ninaning.com^
 ||ninavirgin.com^
 ||nineteenporn.com^
-||nineto5mac-d.openx.net$important^
 ||ninja.onap.io^
 ||ninjacasino.com^
 ||ninjackpot.com^
@@ -17961,7 +17948,7 @@
 ||online-cigarettes.hitslog.net^
 ||online-dn.com^
 ||online-forex-trading-systems.blogspot.com^
-||online-metrix.net$important^
+||online-metrix.net^$important
 ||online-pharmacy-online.blogspot.com^
 ||online-prod.zenmxapps.com^
 ||online.miarroba.com^
@@ -18071,7 +18058,7 @@
 ||openx.imoti.net^
 ||openx.itsmassive.com^
 ||openx.mercatormedia.com^
-||openx.net^
+||openx.net^$important
 ||openx.omniton.net^
 ||openx.org^
 ||openx.trellian.com^
@@ -18314,7 +18301,6 @@
 ||page-x.com^
 ||pagead-googlehosted.l.google.com^
 ||pagead-tpc.l.google.com^
-||pagead.l.doubleclick.net$important^
 ||pagead.l.google.com^
 ||pagead.topobiavi.com^
 ||pagefair.com^
@@ -20810,7 +20796,7 @@
 ||sarajay.com^
 ||sarastone.com^
 ||sargas.iad-03.braze.com^
-||sas.com$important^
+||sas.com^$important
 ||sas.decisionnews.com^
 ||sascdn.com^
 ||sascentral.com^
@@ -20930,7 +20916,6 @@
 ||sdc.caranddriver.com^
 ||sdc.com^
 ||sdc.entertainment.com^
-||sdc.flysas.com^
 ||sdc.lef.org^
 ||sdc.livingchoices.com^
 ||sdc.mcafee.com^
@@ -21825,7 +21810,7 @@
 ||smart.synergy-e.com^
 ||smart4ads.com^
 ||smartaccess.biz^
-||smartadserver.com$important^
+||smartadserver.com^$important
 ||smartbalanceworld.com^
 ||smartcanvas.net^
 ||smartclick.com^
@@ -22487,8 +22472,8 @@
 ||stats.cafepress.com^
 ||stats.canalblog.com^
 ||stats.cloudwp.io^
-||stats.com^
 ||stats.com.edgesuite.net^
+||stats.com^
 ||stats.concierge.com^
 ||stats.coronalabs.com^
 ||stats.darkbluesea.com^
@@ -22688,7 +22673,6 @@
 ||storyboard.adxcel-ec2.com^
 ||storygize.net^
 ||stoveseashore.com^
-||str.hit.gemius.pl$important^
 ||str1kee.com^
 ||straightboygalleries.com^
 ||straightnest.com^
@@ -23169,6 +23153,7 @@
 ||td.yieldify.com^
 ||td583.com^
 ||tdarkangel.com^
+||tdbank.com^$important
 ||tddznew.ksapisrv.com^
 ||tdn.r42tag.com^
 ||tds-01.atas.io^
@@ -24137,7 +24122,6 @@
 ||track.rediff.com^
 ||track.resala1.com^
 ||track.roiservice.com^
-||track.rutarget.ru$important^
 ||track.scrillaspace.com^
 ||track.searchignite.com^
 ||track.securedvisit.com^
@@ -24369,7 +24353,7 @@
 ||tradcatknight.blogspot.com^
 ||tradeadexchange.com^
 ||tradedesk-ues.pinsightmedia.com^
-||tradedoubler.com^
+||tradedoubler.com^$important
 ||tradedoubler.sonvideopro.com^
 ||tradehardlinks.com^
 ||tradem.com^
