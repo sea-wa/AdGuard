@@ -1532,6 +1532,7 @@
 ||adgrx.com^
 ||adgtracker.com^
 ||adguanggao.eee114.com^
+||adguard.com^
 ||adhall.com^
 ||adhaven.com^
 ||adhealers.com^
