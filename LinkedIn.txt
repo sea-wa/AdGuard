@@ -68,7 +68,6 @@
 ||ke.linkedin.com^
 ||kr.linkedin.com^
 ||learning.linkedin.com^
-||linkedin.com^
 ||linkedinforgood.linkedin.com^
 ||lists.linkedin.com^
 ||live.linkedin.com^
