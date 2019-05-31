@@ -1532,7 +1532,6 @@
 ||adgrx.com^
 ||adgtracker.com^
 ||adguanggao.eee114.com^
-||adguard.com^
 ||adhall.com^
 ||adhaven.com^
 ||adhealers.com^
@@ -10936,6 +10935,7 @@
 ||filter.ezmob.com^
 ||filter.mediacpc.com^
 ||filter.serve.adcenter.io^
+||filters.adtidy.org^
 ||filthygifs.tumblr.com^
 ||fimc.net^
 ||fimserve.askmen.com^
