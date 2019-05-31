@@ -909,6 +909,7 @@
 ||access.vivthomas.com^
 ||accesstrade.com^
 ||accessup.goldcows.com^
+||accountkit.com"^
 ||accscdn.m.taobao.com^
 ||ace-skins.com^
 ||acecounter.com^
