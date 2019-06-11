@@ -5244,7 +5244,6 @@
 ||aka-apiservices.boostmobile.com^
 ||aka-root.com^
 ||aka.accortech.com^
-||akadns.net^
 ||akailoparzapi.com^
 ||akama.com^
 ||akamai.poxo.com^
