@@ -5605,7 +5605,6 @@
 ||amazon-cornerstone.com^
 ||amazon.poxo.com^
 ||amazon.vrvm.com^
-||amazonaws.com^
 ||amazonily.com^
 ||amazonsilk.com^
 ||amazoo.longseller.org^
