@@ -6617,7 +6617,6 @@
 ||appjolt.com^
 ||applanga.com^
 ||apple-green.net^
-||apple.com^
 ||apple.com-scan-virus-detected.com^
 ||apple.com-security-desktop-antimalware-support.download^
 ||apple.com-webbrowsing-security.download^
