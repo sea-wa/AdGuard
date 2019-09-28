@@ -33,7 +33,6 @@
 ||tradedoubler.com^$important
 ||www.googleadservices.com^$important
 ! TOP LEVEL DOMAIN (End With)
-! TOP LEVEL DOMAIN (End With)
 ||ac^
 ||academy^
 ||accountant^
