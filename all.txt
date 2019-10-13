@@ -7637,7 +7637,6 @@ yieldmanager.
 ||duchmcmpmqqu.com^
 ||duck-ad.com^
 ||duckdns.org^
-||duckduckgo.com^
 ||dudelsa.com^
 ||duelz.com^
 ||duffelblog.com^
