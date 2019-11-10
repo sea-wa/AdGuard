@@ -600,7 +600,6 @@
 ||mature
 ||metric
 ||mms
-||mobile
 ||nude
 ||oascentral
 ||offer
