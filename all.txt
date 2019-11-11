@@ -660,7 +660,8 @@
 ||social
 ||sp.
 ||spinbox
-||stat
+||stat.
+||stats
 ||survey
 ||syndication
 ||tags
