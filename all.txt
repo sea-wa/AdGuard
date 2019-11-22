@@ -1,4 +1,10 @@
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+! Exceptions
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@@||zoom.us^
+@@||media.tenor.co^
+@@||moto-cds.appspot.com^
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 ! IMPORTANT
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 ||5471782.fls.doubleclick.net^$important
@@ -677,7 +683,7 @@
 ||young
 ||zeroredirect
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-! Hard-Coded DNS in Some Apps
+! Hard-Coded DNS in Some Apps like WhatsApp
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 8.8.8.8:53$network
 8.8.4.4:53$network
