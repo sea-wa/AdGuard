@@ -630,6 +630,7 @@
 ||openx
 ||pagead
 ||partner
+||perimeterx
 ||phentermine
 ||pixel
 ||platform
