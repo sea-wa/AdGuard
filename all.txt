@@ -590,6 +590,7 @@
 ||consent
 ||count
 ||dating
+||device-metric
 ||direct
 ||dxsvr
 ||erotic
