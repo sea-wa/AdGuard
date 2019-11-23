@@ -598,6 +598,7 @@
 ||facebook
 ||fastcounter
 ||fb.
+||firebase
 ||free
 ||fuck
 ||game
