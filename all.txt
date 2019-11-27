@@ -650,6 +650,7 @@
 ||sconsentit
 ||scrooge
 ||sdk.
+||semanticlocation
 ||serve
 ||sex
 ||shemale
