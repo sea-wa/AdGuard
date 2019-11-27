@@ -615,6 +615,7 @@
 ||geoip
 ||goguardian
 ||goodadvert
+||graph
 ||hentai
 ||hit
 ||inrix
@@ -6589,9 +6590,6 @@
 ||grandioseguide.com^
 ||grandonmedia.com^
 ||grannymommy.com^
-||graph.whatsapp.net^
-||graphql.groovehq.com^
-||graphql.kumparan.com^
 ||gratis-sexkontakte.com^
 ||gratisweb.com^
 ||gravitron.chron.com^
