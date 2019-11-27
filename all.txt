@@ -599,6 +599,10 @@
 ||facebook
 ||fastcounter
 ||fb.
+||fbcdn
+||fbexternal
+||fbsbx
+||fbstatic
 ||firebase
 ||free
 ||fuck
@@ -681,7 +685,7 @@
 ||xn-
 ||xtify
 ||xvideos
-||xxx
+||xx
 ||ybinst
 ||yieldmanager
 ||young
