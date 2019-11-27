@@ -589,6 +589,8 @@
 ||collect
 ||consent
 ||count
+||crashlog
+||crashlytic
 ||dating
 ||device-metric
 ||direct
@@ -4097,9 +4099,6 @@
 ||crackzone.net^
 ||crackzplanet.com^
 ||crakcash.com^
-||crashlogs.whatsapp.net^
-||crashlogs.woniu.com^
-||crashlytics.com^
 ||craveandlamb.com^
 ||crawlability.com^
 ||crazyasiangfs.com^
