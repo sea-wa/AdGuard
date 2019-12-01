@@ -999,6 +999,7 @@
 ||adduplex.com^
 ||addwish.com^
 ||adelva.com^
+||adenabler.com^
 ||adevents.msn.com^
 ||adfalcon.com^
 ||adfclick1.com^
