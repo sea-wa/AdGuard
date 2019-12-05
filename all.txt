@@ -624,6 +624,7 @@
 ||geoip
 ||goguardian
 ||goodadvert
+||googlesyndication
 ||graph
 ||hentai
 ||hit
