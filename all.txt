@@ -4,12 +4,16 @@
 @@||zoom.us^
 @@||media.tenor.co^
 @@||moto-cds.appspot.com^
+@@||statefarm.sc.omtrdc.net^
+@@||media-amazon.com^
+@@||social-na.waze.com^
+@@||sdk.waze.com^
 !
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 ! Hard-Coded DNS in Some Apps like WhatsApp
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-8.8.8.8:53$network
-8.8.4.4:53$network
+8.8.8.8$network
+8.8.4.4$network
 !
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 ! IMPORTANT
@@ -668,7 +672,6 @@
 ||sconsentit
 ||scrooge
 ||sdk.
-||semanticlocation
 ||serve
 ||sex
 ||shemale
