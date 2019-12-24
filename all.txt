@@ -4,7 +4,7 @@
 @@||zoom.us^
 @@||media.tenor.co^
 @@||moto-cds.appspot.com^
-@@||statefarm.sc.omtrdc.net^
+!@@||statefarm.sc.omtrdc.net^
 @@||media-amazon.com^
 @@||social-na.waze.com^
 @@||sdk.waze.com^
