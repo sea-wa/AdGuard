@@ -3,11 +3,11 @@
 ! Exceptions
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !
-@@||bankone.com^|
-@@||chase.com^|
-@@||chasecdn.com^|
-@@||gslbjpmchase.com^|
-@@||zoom.us^|
+@@||bankone.com^
+@@||chase.com^
+@@||chasecdn.com^
+@@||gslbjpmchase.com^
+@@||zoom.us^
 !
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 ! IMPORTANT
