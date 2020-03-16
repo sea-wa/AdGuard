@@ -451,7 +451,6 @@
 ||scriptsubdocument^
 ||se^
 ||seat^
-||services^
 ||sex^
 ||sexy^
 ||sf^
