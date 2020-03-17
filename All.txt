@@ -577,6 +577,7 @@
 ||adult.
 ||adv.
 ||advertising.
+||advil.
 ||adx.
 ||affiliate.
 ||analytic.
