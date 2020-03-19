@@ -594,7 +594,9 @@
 ||counter.
 ||crashlogs.
 ||device-metrics
+||device-provisioning.
 ||events.
+||firebase
 ||free.
 ||gcirm.
 ||geo.
