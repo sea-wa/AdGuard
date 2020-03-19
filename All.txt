@@ -597,6 +597,7 @@
 ||device-provisioning.
 ||events.
 ||firebase
+||fcmtoken.
 ||free.
 ||gcirm.
 ||geo.
