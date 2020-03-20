@@ -2,6 +2,11 @@
 @@||chase.com^|
 @@||chasecdn.com^|
 @@||gslbjpmchase.com^|
-@@||ichart2.epic.com^|
+@@||epic.com^|
+@@||microsoftonline.com^|
+@@||msedge.net^|
 @@||mychartor.providence.org^|
-@@||zimperium.com^|
+@@||tesla.services^|
+@@||teslamotors.com^|
+@@||trafficmanager.net^|
+@@||zoom.us^|
