@@ -3,12 +3,12 @@
 ! Whitelist
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !
-@@||microsoftonline.com^$important
-@@||msedge.net^$important
-@@||tesla.services^$important
-@@||teslamotors.com^$important
-@@||trafficmanager.net^$important
-@@||zoom.us^$important
+@@||microsoftonline.com^|
+@@||msedge.net^|
+@@||tesla.services^|
+@@||teslamotors.com^|
+@@||trafficmanager.net^|
+@@||zoom.us^|
 !
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 ! IMPORTANT
