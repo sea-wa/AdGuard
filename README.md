@@ -2,7 +2,7 @@
 This is a consolidated format for AdGuard on Apple IOS and Google Android. Credit to Steven Black Hosts File for the original hosts in addition to modifications done by me to make it more compatible with AdGuard.
 
 ## Installation & Usage
-Just add the filters in your AdBlock app. The file "all.txt" contains all the filters, if you add this one, you don't need to add the others.
+Just add the filters in your AdBlock app. The file "all.txt" contains all the filters.
 
 # Note
 A lot of Root Domains are blocked, remove what you need:
